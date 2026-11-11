@@ -2,7 +2,7 @@
 student = {
     "name": "Mariot",
     "city": "Mwanza",
-    "day": 1
+    "day": 2
 }
 
 # Printing the whole dictionary
@@ -18,6 +18,12 @@ else:
     print("Keep up the great momentum!")
 
 
+if student ["day"] == 1:
+    print("Welcome to Day 1: Foundations")
+elif student ["day"] == 2:
+    print("Welcome to Day 2: Pandas DataFrames!")
+else:
+    print("Welcome to Day 3: Data Cleansing!")
 
 
 
