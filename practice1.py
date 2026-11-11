@@ -19,5 +19,10 @@ print(f"My first friend is {first_friend}.")
 # Grabbing the third item, position 2
 last_friend = my_friends[2]
 print(f"My last friend is {last_friend}.")
-best_friend = my_friends[3]
+best_friend = my_friends[2]
 print(f"My best friend is {best_friend}.")
+
+# Create a Loop Statement
+
+for friend in my_friends:
+    print(f"Hello {friend}! Welcome to Python Bootcamp.")
