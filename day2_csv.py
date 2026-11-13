@@ -12,4 +12,4 @@ df.to_csv("sales_report.csv", index=False)
 loaded_df = pd.read_csv("sales_report.csv")
 print("Loaded from CSV:")
 print(loaded_df)
-
+pd.read_csv("sales_report.csv")
