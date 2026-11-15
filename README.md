@@ -40,7 +40,3 @@ This capstone demonstrates an automated **ERP ➔ Python Audit ➔ Executive BI*
 * `tableau_mopo_onhand_cleaned.csv` — Enriched on-hand valuation dataset powering Tableau regional & product charts.
 
 ---
-
-## Additional Bootcamp Foundations
-
-This repository also includes foundational data engineering exercises (`day2_csv.py`, `day2_pandas.py`, `day3_cleaning.py`, `loops.py`, `practice1.py`, and `practice2.py`) covering CSV parsing, Pandas transformations, and data standardization.
