@@ -1,0 +1,11 @@
+Country,Swap_Hub,Product,Scheduled_Dispatch_Day,Last_Mile_Transport,Current_Hub_Stock,Weekly_Demand,Target_2Wk_Buffer,RMA_Refurb_Redeployed,Central_WH_Replenishment,Total_Scheduled_Delivery,Stockout_Risk_Status
+Nigeria,Swap Hub - Abeokuta,MOPO50 Battery,Monday,Dedicated 3T Box Truck,0,6,12,2,16,18,HIGH - Immediate Dispatch
+Nigeria,Swap Hub - Abeokuta,MOPOMax Battery,Monday,Dedicated 3T Box Truck,1,3,6,1,7,8,HIGH - Immediate Dispatch
+Nigeria,Swap Hub - Ibadan,MOPO50 Battery,Wednesday,Dedicated 3T Box Truck,5,5,10,2,8,10,HIGH - Immediate Dispatch
+Nigeria,Swap Hub - Ibadan,MOPOMax Battery,Wednesday,Dedicated 3T Box Truck,2,2,4,1,3,4,HIGH - Immediate Dispatch
+DRC,Swap Hub - Kinshasa,MOPO50 Battery,Tuesday,Contracted Van / Ferry,2,7,14,2,17,19,HIGH - Immediate Dispatch
+DRC,Swap Hub - Kinshasa,MOPOMax Battery,Tuesday,Contracted Van / Ferry,1,4,8,1,10,11,HIGH - Immediate Dispatch
+Liberia,Swap Hub - Monrovia,MOPO50 Battery,Thursday,MOPO Pickup Fleet,2,5,10,1,12,13,HIGH - Immediate Dispatch
+Liberia,Swap Hub - Monrovia,MOPOMax Battery,Thursday,MOPO Pickup Fleet,2,2,4,0,4,4,HIGH - Immediate Dispatch
+Sierra Leone,Swap Hub - Freetown,MOPO50 Battery,Friday,MOPO Pickup Fleet,3,4,8,0,9,9,HIGH - Immediate Dispatch
+Sierra Leone,Swap Hub - Freetown,MOPOMax Battery,Friday,MOPO Pickup Fleet,1,2,4,0,5,5,HIGH - Immediate Dispatch

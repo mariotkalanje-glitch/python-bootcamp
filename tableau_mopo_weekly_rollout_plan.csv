@@ -1,0 +1,25 @@
+Rollout_Week,Week_Number,Country,Install_Site,Product,Kit_BOM_Units,Failure_Rate_Spares,Total_Required_Units,Central_WH_OnHand,Net_China_PO_Qty,Need_By_Date,China_Order_By_Date,Shelf_Life_Limit_Days,FOB_Procurement_USD,Landed_Cost_Forecast_USD,JIT_Action_Flag
+W02,2,Nigeria,Ogun Industrial Corridor,MOPO50 Battery,12,1,13,9,4,2026-11-30,2026-09-26,180,220.0,250.8,URGENT - Expedite Air/Sea
+W02,2,Nigeria,Ogun Industrial Corridor,MOPOMax Battery,6,1,7,5,2,2026-11-30,2026-09-26,180,400.0,456.0,URGENT - Expedite Air/Sea
+W02,2,Nigeria,Ogun Industrial Corridor,MOPO Swap Charger,4,1,5,5,0,2026-11-30,2026-10-01,730,0.0,0.0,URGENT - Expedite Air/Sea
+W02,2,Nigeria,Ogun Industrial Corridor,MOPO Solar Hub Kit,1,1,2,2,0,2026-11-30,2026-09-21,730,0.0,0.0,URGENT - Expedite Air/Sea
+W04,4,DRC,Kinshasa East Commercial Zone,MOPO50 Battery,12,1,13,13,0,2026-12-14,2026-10-10,180,0.0,0.0,URGENT - Expedite Air/Sea
+W04,4,DRC,Kinshasa East Commercial Zone,MOPOMax Battery,6,1,7,6,1,2026-12-14,2026-10-10,180,200.0,228.0,URGENT - Expedite Air/Sea
+W04,4,DRC,Kinshasa East Commercial Zone,MOPO Swap Charger,4,1,5,7,0,2026-12-14,2026-10-15,730,0.0,0.0,URGENT - Expedite Air/Sea
+W04,4,DRC,Kinshasa East Commercial Zone,MOPO Solar Hub Kit,1,1,2,2,0,2026-12-14,2026-10-05,730,0.0,0.0,URGENT - Expedite Air/Sea
+W06,6,Nigeria,Ibadan Ring-Road Hub,MOPO50 Battery,12,1,13,9,4,2026-12-28,2026-10-24,180,220.0,250.8,URGENT - Expedite Air/Sea
+W06,6,Nigeria,Ibadan Ring-Road Hub,MOPOMax Battery,6,1,7,5,2,2026-12-28,2026-10-24,180,400.0,456.0,URGENT - Expedite Air/Sea
+W06,6,Nigeria,Ibadan Ring-Road Hub,MOPO Swap Charger,4,1,5,5,0,2026-12-28,2026-10-29,730,0.0,0.0,URGENT - Expedite Air/Sea
+W06,6,Nigeria,Ibadan Ring-Road Hub,MOPO Solar Hub Kit,1,1,2,2,0,2026-12-28,2026-10-19,730,0.0,0.0,URGENT - Expedite Air/Sea
+W08,8,Liberia,Paynesville Market Hub,MOPO50 Battery,12,1,13,9,4,2027-01-11,2026-11-07,180,220.0,250.8,URGENT - Expedite Air/Sea
+W08,8,Liberia,Paynesville Market Hub,MOPOMax Battery,6,1,7,5,2,2027-01-11,2026-11-07,180,400.0,456.0,URGENT - Expedite Air/Sea
+W08,8,Liberia,Paynesville Market Hub,MOPO Swap Charger,4,1,5,5,0,2027-01-11,2026-11-12,730,0.0,0.0,URGENT - Expedite Air/Sea
+W08,8,Liberia,Paynesville Market Hub,MOPO Solar Hub Kit,1,1,2,2,0,2027-01-11,2026-11-02,730,0.0,0.0,URGENT - Expedite Air/Sea
+W10,10,Sierra Leone,Waterloo Transit Hub,MOPO50 Battery,12,1,13,11,2,2027-01-25,2026-11-21,180,110.0,125.4,ON SCHEDULE - Sea Freight
+W10,10,Sierra Leone,Waterloo Transit Hub,MOPOMax Battery,6,1,7,4,3,2027-01-25,2026-11-21,180,600.0,684.0,ON SCHEDULE - Sea Freight
+W10,10,Sierra Leone,Waterloo Transit Hub,MOPO Swap Charger,4,1,5,4,1,2027-01-25,2026-11-26,730,28.0,31.36,ON SCHEDULE - Sea Freight
+W10,10,Sierra Leone,Waterloo Transit Hub,MOPO Solar Hub Kit,1,1,2,1,1,2027-01-25,2026-11-16,730,980.0,1136.8,URGENT - Expedite Air/Sea
+W12,12,DRC,Matadi Port Logistics Hub,MOPO50 Battery,12,1,13,13,0,2027-02-08,2026-12-05,180,0.0,0.0,ON SCHEDULE - Sea Freight
+W12,12,DRC,Matadi Port Logistics Hub,MOPOMax Battery,6,1,7,6,1,2027-02-08,2026-12-05,180,200.0,228.0,ON SCHEDULE - Sea Freight
+W12,12,DRC,Matadi Port Logistics Hub,MOPO Swap Charger,4,1,5,7,0,2027-02-08,2026-12-10,730,0.0,0.0,ON SCHEDULE - Sea Freight
+W12,12,DRC,Matadi Port Logistics Hub,MOPO Solar Hub Kit,1,1,2,2,0,2027-02-08,2026-11-30,730,0.0,0.0,ON SCHEDULE - Sea Freight

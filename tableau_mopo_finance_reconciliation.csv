@@ -1,0 +1,12 @@
+Country,Location_Tier,OnHand_Units,Current_FOB_Valuation_USD
+DRC,Central Warehouse,28.0,4071.0
+DRC,Field Swap Hub,6.0,1346.0
+DRC,Refurbishment & Faulty,3.0,310.0
+Liberia,Central Warehouse,21.0,3595.0
+Liberia,Field Swap Hub,6.0,1518.0
+Liberia,Refurbishment & Faulty,2.0,83.0
+Nigeria,Central Warehouse,21.0,3595.0
+Nigeria,Field Swap Hub,14.0,2947.0
+Nigeria,Refurbishment & Faulty,3.0,310.0
+Sierra Leone,Central Warehouse,20.0,2497.0
+Sierra Leone,Field Swap Hub,6.0,1373.0
