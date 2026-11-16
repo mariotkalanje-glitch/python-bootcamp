@@ -9,7 +9,7 @@
 
 ## Executive Summary & Verified Reconciliation Metrics
 
-Across three structured build sessions, we designed, populated, audited, and published a full-lifecycle multi-country supply chain and serialized inventory control case study modeling operations across **Nigeria, Liberia, Sierra Leone, and DRC**.
+Across three structured build sessions, I designed, populated, audited, and published a full-lifecycle multi-country supply chain and serialized inventory control case study modeling operations across **Nigeria, Liberia, Sierra Leone, and DRC**.
 
 | KPI / Audit Metric | Verified Result | Operational & Financial Breakdown |
 | :--- | :--- | :--- |
@@ -248,15 +248,12 @@ print("\n[SUCCESS] Exported 'tableau_mopo_moves_cleaned.csv' and 'tableau_mopo_o
 
 * **What is RMA (Return Merchandise Authorization)?**
   * Formal reverse-logistics workflow used to isolate faulty or underperforming field units (`Swap Hub` ➔ `Refurbishment & Faulty` bay) so broken batteries are never counted as rent-ready buffer stock and Finance can track repair CapEx exposure (`$703.00` across `8 units`).
-* **Operations Panelists (`Phil Howden` & `Benjamin Clay`):**
-  * Focus on 3-tier location separation (`Central Warehouse` buffer vs. `Field Swap Hub` active stock vs. `Refurbishment & Faulty` quarantine) to eliminate stockouts while preventing faulty battery deployment.
-* **Technical Panelists (`Luke Burras` & `Bawo Megbele`):**
-  * Focus on unique serial-level traceability (`NG-M50-001` to `DRC-HUB-003`) and automated Pandas reconciliation scripts replacing manual spreadsheet audits.
-* **Finance Panelist (`David Barclay`):**
+* **Operations:**
+  * A 3-tier location separation (`Central Warehouse` buffer vs. `Field Swap Hub` active stock vs. `Refurbishment & Faulty` quarantine) to eliminate stockouts while preventing faulty battery deployment.
+* **Technical:**
+  * Unique serial-level traceability (`NG-M50-001` to `DRC-HUB-003`) and automated Pandas reconciliation scripts replacing manual spreadsheet audits.
+* **Finance:**
   * Focus on 100% dollar-for-dollar CapEx reconciliation (`$21,645.00` across `130 units`), working-capital visibility across borders, and transparent cycle-count shrinkage governance (`NG-M50-006` at `-$55.00`).
 
 ---
 
-## Next Session Plan: Rapid-Fire Mock Q&A
-* **Trigger:** Say **"Start mock Q&A"** whenever ready.
-* **Format:** Targeted, high-stakes interview questions tailored individually to **Phil Howden, Benjamin Clay, Luke Burras, Bawo Megbele, and David Barclay** ahead of **November 26**.
