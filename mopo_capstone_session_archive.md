@@ -1,8 +1,7 @@
-# MOPO Multi-Country Supply Chain & Serialized Inventory Control Capstone — Complete Session Archive
+# MOPO Multi-Country Supply Chain & Serialized Inventory Control Capstone
 
-**Candidate:** Mariot Margeson Kalanje  
+**Builder:** Mariot Margeson Kalanje  
 **Target Role:** Head of Logistics & Inventory (Panel Interview: November 26)  
-**Panelists:** Phil Howden (Operations), Benjamin Clay (Operations), Luke Burras (Technical), Bawo Megbele (Technical), David Barclay (Finance)  
 **Technology Stack:** Odoo 19 Enterprise Simulation • Python (Pandas) • Tableau Public • GitHub  
 **Live Tableau Public Dashboard:** https://public.tableau.com/app/profile/mariot.kalanje/viz/MOPOMulti-CountrySupplyChainInventoryAudit  
 **GitHub Repository:** https://github.com/mariotkalanje-glitch/python-bootcamp  
