@@ -28,7 +28,7 @@ Across three structured build sessions, we designed, populated, audited, and pub
 
 ### 1. Core ERP Configuration (`Metas Traders` Database)
 * Enabled **Lots & Serial Numbers**, **Storage Locations**, **Multi-Step Routes**, and **Landed Costs** in **USD**.
-* Established nominative fair-use guardrails for executive interview case-study modeling (strictly synthetic numbers, clear simulation labeling, non-commercial portfolio use).
+* Established nominative case-study modeling (strictly synthetic numbers, clear simulation labeling, non-commercial portfolio use).
 
 ### 2. Regional Warehouses & 13 Internal Storage Locations
 * **Nigeria (`NG-WH` — MOPO Nigeria Central):**
