@@ -253,7 +253,7 @@ print("\n[SUCCESS] Exported 'tableau_mopo_moves_cleaned.csv' and 'tableau_mopo_o
 * **Technical:**
   * Unique serial-level traceability (`NG-M50-001` to `DRC-HUB-003`) and automated Pandas reconciliation scripts replacing manual spreadsheet audits.
 * **Finance:**
-  * Focus on 100% dollar-for-dollar CapEx reconciliation (`$21,645.00` across `130 units`), working-capital visibility across borders, and transparent cycle-count shrinkage governance (`NG-M50-006` at `-$55.00`).
+  * 100% dollar-for-dollar CapEx reconciliation (`$21,645.00` across `130 units`), working-capital visibility across borders, and transparent cycle-count shrinkage governance (`NG-M50-006` at `-$55.00`).
 
 ---
 
