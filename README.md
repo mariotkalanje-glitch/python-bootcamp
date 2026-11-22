@@ -4,7 +4,7 @@
 **Core Systems:** Odoo 19 ERP (Multi-Warehouse & Serialisation) • Automated Python Reconciliation • Tableau Executive BI  
 **Interactive Dashboard #1 (Asset Control & Serial Audit):** [MOPO Multi-Country Supply Chain & Inventory Audit](https://public.tableau.com/app/profile/mariot.kalanje/viz/MOPOMulti-CountrySupplyChainInventoryAudit/AssetExposure)  
 **Interactive Dashboard #2 (Forward Demand & CapEx Control Tower):** [MOPO Forward Demand Planning & Replenishment Control Tower](https://public.tableau.com/app/profile/mariot.kalanje/viz/MOPOForwardDemandPlanningReplenishmentControlTower/2_MOPOForwardDemandPlanningReplenishmentCapExStory)
-**Standard Operating Procedure:** [MOPO Global Warehouse & Serialized Inventory Draft SOP](./MOPO_GLOBAL_WAREHOUSE_DRAFT_SOP.md)  
+**Standard Operating Procedure:** [MOPO Global Warehouse & Serialized Inventory Draft SOP](./MOPO_GLOBAL_WAREHOUSE_DRAFT_SOP.md) 
 
 > *Note: This case study models a simulated multi-country battery-swapping and solar micro-grid logistics network across Nigeria, DRC, Liberia, and Sierra Leone to demonstrate end-to-end ERP control, forward demand planning, and cross-functional governance.*
 
